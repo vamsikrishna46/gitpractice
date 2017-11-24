@@ -1,2 +1,0 @@
-# gitpractice
-for practice perpose
